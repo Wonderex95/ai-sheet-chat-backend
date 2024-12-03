@@ -1,0 +1,9 @@
+fastapi
+pydantic
+streamlit
+openai
+tiktoken
+numpy
+pandas
+python-dotenv
+sqlite3
